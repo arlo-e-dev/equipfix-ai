@@ -36,11 +36,11 @@ export default function Home() {
         <div className="max-w-7xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-purple-500/20 border border-purple-500/30 rounded-full px-4 py-2 mb-6">
             <Sparkles className="w-4 h-4 text-purple-400" />
-            <span className="text-purple-300 text-sm font-medium">AI-Powered Equipment Repair</span>
+            <span className="text-purple-300 text-sm font-medium">AI-Powered Computer Assistance</span>
           </div>
           
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-            Audiology Equipment Fixed
+            Computer Problems Fixed
             <br />
             <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
               In Minutes, Not Days
@@ -48,8 +48,8 @@ export default function Home() {
           </h1>
           
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Revolutionary AI-powered remote repair service. No waiting for technicians. 
-            No expensive service calls. Just instant, affordable fixes.
+            Revolutionary AI-powered remote computer assistance. No waiting for technicians. 
+            No expensive service calls. Just instant, affordable fixes for any computer issue.
           </p>
 
           {/* CTA Form */}
@@ -138,10 +138,10 @@ export default function Home() {
           
           <div className="grid md:grid-cols-4 gap-8">
             {[
-              { step: '1', title: 'Request Service', desc: 'Submit a repair request through our platform in seconds' },
-              { step: '2', title: 'AI Connects', desc: 'Our AI remotely accesses your equipment instantly' },
-              { step: '3', title: 'Diagnose & Fix', desc: 'AI identifies and resolves the issue automatically' },
-              { step: '4', title: 'Back Online', desc: 'Equipment calibrated and ready to use in minutes' },
+              { step: '1', title: 'Request Help', desc: 'Contact us with your computer issue - any problem, any time' },
+              { step: '2', title: 'Remote Connect', desc: 'We securely install our AI assistant on your computer' },
+              { step: '3', title: 'AI Fixes It', desc: 'Our AI diagnoses and resolves the issue automatically' },
+              { step: '4', title: 'Clean Exit', desc: 'AI removed after fix - your computer is back to normal' },
             ].map((item, idx) => (
               <div key={idx} className="relative">
                 {idx < 3 && (
@@ -259,7 +259,7 @@ export default function Home() {
               Ready to Experience the Future?
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Join hundreds of clinics saving time and money with AI-powered repairs.
+              Join hundreds of businesses saving time and money with AI-powered computer assistance.
             </p>
             <button className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-12 py-4 rounded-full hover:from-purple-700 hover:to-pink-700 transition-all shadow-lg hover:shadow-purple-500/50 font-bold text-lg flex items-center gap-2 mx-auto">
               Start Your Free Trial
@@ -274,7 +274,7 @@ export default function Home() {
       <footer className="border-t border-white/10 py-8 px-4">
         <div className="max-w-7xl mx-auto text-center text-gray-400">
           <p>© 2026 EquipFix AI. All rights reserved.</p>
-          <p className="mt-2 text-sm">Revolutionizing audiology equipment service with AI</p>
+          <p className="mt-2 text-sm">Revolutionizing computer assistance with AI</p>
         </div>
       </footer>
     </div>
