@@ -88,7 +88,7 @@ export default function Home() {
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto mt-20">
             <div className="text-center">
-              <div className="text-5xl font-bold text-white mb-2">< 3min</div>
+              <div className="text-5xl font-bold text-white mb-2">&lt;3min</div>
               <div className="text-gray-400 font-medium">Average Response</div>
             </div>
             <div className="text-center">
