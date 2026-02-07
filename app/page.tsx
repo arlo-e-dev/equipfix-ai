@@ -146,7 +146,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold text-white mb-4">Bank-Level Security</h3>
               <p className="text-gray-300 leading-relaxed">
-                End-to-end encryption, SOC 2 Type II certified, and GDPR compliant. 
+                End-to-end encryption and enterprise-grade security practices. 
                 Your data never leaves your infrastructure.
               </p>
             </div>
@@ -388,7 +388,7 @@ export default function Home() {
           </div>
           <div className="border-t border-white/10 pt-8 text-center">
             <p className="text-gray-400 text-sm">© 2026 EquipFix AI. All rights reserved.</p>
-            <p className="text-gray-500 text-xs mt-2">SOC 2 Type II Certified  •  GDPR Compliant  •  ISO 27001</p>
+            <p className="text-gray-500 text-xs mt-2">Enterprise Security  •  24/7 Support  •  Global Coverage</p>
           </div>
         </div>
       </footer>
