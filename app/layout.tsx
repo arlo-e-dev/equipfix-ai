@@ -5,9 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "EquipFix AI - Instant Computer Assistance | 70% Cheaper, 10x Faster",
-  description: "Revolutionary AI-powered remote computer assistance. Fix any computer issue in minutes, not days. 70% cheaper than traditional tech support. Available 24/7.",
-  keywords: "AI computer repair, remote tech support, computer assistance, AI help desk, instant computer fix, affordable tech support",
+  title: "EquipFix AI - Enterprise AI Software Support | 24/7 Automated IT Assistance",
+  description: "Enterprise-grade AI-powered software support. Instant diagnosis and resolution of any software issue. 70% cheaper than traditional IT support. SOC 2 certified, available 24/7/365.",
+  keywords: "AI IT support, enterprise software support, automated tech support, AI help desk, remote software assistance, business IT solutions, AI troubleshooting",
 };
 
 export default function RootLayout({
