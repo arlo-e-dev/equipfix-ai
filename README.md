@@ -2,6 +2,8 @@
 
 Modern, high-converting landing page for AI-powered audiology equipment repair service.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/arlo-e-dev/equipfix-ai)
+
 ## Features
 
 - 🎨 **Modern Design** - Glassmorphism, gradients, and smooth animations
